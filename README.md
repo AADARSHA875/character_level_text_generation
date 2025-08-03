@@ -25,7 +25,7 @@ The objective is to demonstrate how recurrent neural networks can learn characte
 - Sequence length: 100 characters
 - Embedding layer: Optional but used for character encoding
 - Training Epochs: **50**
-- Training Time: **~4 hours** on CPU
+- Training Time: **~4 hours** on GPU
 - Loss Function: Sparse Categorical Crossentropy
 - Optimizer: Adam
 
